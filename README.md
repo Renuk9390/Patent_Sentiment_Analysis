@@ -1,5 +1,7 @@
 ### Patent-annotation: A novel dataset to highlight patent passages
 
+![overview](patent_annotation_overview.png)
+
 In the process of manual patent analysis, to attain better readability, identifying the semantic information by marking paragraph is in practice. Oftentimes patent examiners and attorneys highlight the text passages which could be essential entities for key arguments when patent documents are compared to the existing literature. The important entities such as technical advantageous of any invention, problems associated with previous efforts, or other plain descriptive texts are manually highlighted by attorneys to compare and contrast indivdual subject matters. This semantic annotation process is laborious and time consuming, to allevate such problem we proposed a novel dataset. The dataset consist of three classes such as 'positive', 'negative', and 'neutral' corresponding to 'technical advantageous of inventios', 'technical problems', and 'other boilerplate text' from patent documents respectively. 
 
 Patents docs, mainly from ASIA expresses the selling points of their invention via section so called " technical advantages", "advantageous effects", "effects of invention", etc. Such section usually have some sentences or a paragraphs which focus on advantages of invention, we call them positive samples in our dataset.
