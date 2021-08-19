@@ -1,4 +1,4 @@
-### Patent-annotation: A novel dataset to highlight patent passages
+### PaSa: A Novel Dataset for Patent Sentiment Analysis to Highlight Patent Paragraphs
 
 ![overview](patent_annotation_overview.png)
 
